@@ -14,9 +14,8 @@
     <li>
       <a href="#getting-started">Getting Started</a>
     </li>
-    <li><a href="#explanation">Explnation</a></li>
+    <li><a href="#explanations">Explnation</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -24,8 +23,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 La implementación se enfoca en garantizar la integridad de los datos, la flexibilidad en la estructura organizativa y la coherencia en la jerarquía de la organización. Esto se logra mediante la definición clara de la estructura de datos y el manejo adecuado de las relaciones entre los empleados, así como mediante la validación y el cumplimiento de las responsabilidades de supervisión según los roles de cada empleado.
 
@@ -125,8 +122,6 @@ Este proceso garantiza que la actualización de los empleados se realice de mane
 ## Contact
 
 Christian David Mora Diaz - christianmoradiaz@hotmail.com - (+57) 3013913002
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
