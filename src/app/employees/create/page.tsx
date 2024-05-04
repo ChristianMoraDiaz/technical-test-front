@@ -85,6 +85,7 @@ export default function Page(): ReactElement {
   }, []);
 
   const director = watch("director");
+  const supervisorId = watch("supervisorId");
 
   return (
     <div className="min-h-screen p-10">
@@ -153,7 +154,8 @@ export default function Page(): ReactElement {
                 className="select select-bordered w-full"
                 {...register("director", {
                   validate: (value) =>
-                    (!value.supervisorId && value === "true") ||
+                    (value === "true" && !supervisorId) ||
+                    value === "false" ||
                     "Supervisor is required for regular employees",
                 })}
                 defaultValue="false"
