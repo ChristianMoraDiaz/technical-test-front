@@ -104,7 +104,7 @@ Este proyecto utiliza next/font para optimizar y cargar automáticamente Inter, 
 Este proceso garantiza que la actualización de los empleados se realice de manera segura y consistente, manteniendo la integridad de los datos y la coherencia en la jerarquía de la organización.
 
 * Manejo de Nulos:
-    - La estructura jerárquica en esta aplicación está basada en la validación del rol de director. La lógica detrás de esta validación es que un empleado que es designado como director puede tener la opción de tener o no tener un supervisor, dependiendo de las necesidades y la estructura organizativa de la empresa. Por otro lado, un empleado que no ocupa el rol de director debe tener obligatoriamente un supervisor designado.
+    La estructura jerárquica en esta aplicación está basada en la validación del rol de director. La lógica detrás de esta validación es que un empleado que es designado como director puede tener la opción de tener o no tener un supervisor, dependiendo de las necesidades y la estructura organizativa de la empresa. Por otro lado, un empleado que no ocupa el rol de director debe tener obligatoriamente un supervisor designado.
 
     La razón para esta distinción radica en la naturaleza de los roles dentro de una organización:
 
