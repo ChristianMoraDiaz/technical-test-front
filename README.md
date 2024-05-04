@@ -117,7 +117,9 @@ Este proyecto utiliza next/font para optimizar y cargar automáticamente Inter, 
 
 * Ejemplo de Uso
 
-  <img src="https://i.imgur.com/WXqLoWB.png" alt="Ejemplo" width="80" height="80">
+  La siguiente tabla presenta la jerarquía de una empresa compuesta por seis empleados, junto con sus supervisores y subordinados correspondientes.
+  
+  <img src="https://i.imgur.com/WXqLoWB.png" alt="Ejemplo">
   
 <p align="right">(<a href="#readme-top">Regresar arriba</a>)</p>
 
