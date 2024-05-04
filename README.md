@@ -3,48 +3,48 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Tabla de contenido</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#acerca-del-proyecto">Acerca del proyecto</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#stack">Stack</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#primeros-pasos">Primeros Pasos</a>
     </li>
-    <li><a href="#explanations">Explnation</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#explicación">Explicación</a></li>
+    <li><a href="#contacto">Contacto</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Acerca del proyecto
 
 La implementación se enfoca en garantizar la integridad de los datos, la flexibilidad en la estructura organizativa y la coherencia en la jerarquía de la organización. Esto se logra mediante la definición clara de la estructura de datos y el manejo adecuado de las relaciones entre los empleados, así como mediante la validación y el cumplimiento de las responsabilidades de supervisión según los roles de cada empleado.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Regresar arriba</a>)</p>
 
 
 
-### Built With
+### Stack
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Typescript][Typescript]][Typescript-url]
 * [![Tailwind][Tailwind]][Tailwind-url]
   
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Regresar arriba</a>)</p>
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Primeros Pasos
 
-First, run the development server:
+Ejecuta el servidor de desarrollo:
 
 ```bash
 npm run dev
@@ -56,14 +56,14 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abre [http://localhost:3000](http://localhost:3000) en el navegador.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Puedes empezar a editar la página modificando app/page.tsx. La página se actualizará automáticamente a medida que edites el archivo.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Este proyecto utiliza next/font para optimizar y cargar automáticamente Inter, una fuente personalizada de Google.
 
 <!-- ROADMAP -->
-## Explanations
+## Explicación
 
 * Estructura de Datos:
 
@@ -115,15 +115,15 @@ Este proceso garantiza que la actualización de los empleados se realice de mane
     - [ ] En resumen, la distinción entre empleados que pueden tener o no un supervisor se basa en el rol de director. Esto permite flexibilidad en la estructura organizativa, al tiempo que garantiza que los empleados no supervisores reciban el apoyo y la orientación necesarios para cumplir con sus responsabilidades de manera efectiva.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Regresar arriba</a>)</p>
 
 
 <!-- CONTACT -->
-## Contact
+## Contacto
 
 Christian David Mora Diaz - christianmoradiaz@hotmail.com - (+57) 3013913002
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Regresar arriba</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
