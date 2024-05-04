@@ -71,9 +71,9 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
     
     - [ ] name: Este campo es de tipo String y almacena el nombre del empleado.
     
-    version: Este campo es de tipo Int y se utiliza para llevar un control de versiones de los datos del empleado. Está marcado con @default(1), lo que significa que su valor predeterminado es 1.
+    - [ ] version: Este campo es de tipo Int y se utiliza para llevar un control de versiones de los datos del empleado. Está marcado con @default(1), lo que significa que su valor predeterminado es 1.
     
-    - [ ] supervisor: Este campo establece una relación de uno a uno con otro empleado, que actúa como el supervisor de este empleado. Está marcado como opcional (Employee?) porque no todos los empleados pueden tener un supervisor. La directiva @relation especifica el nombre de la relación como "Subordinates", y los campos y referencias especifican cómo se relaciona este campo con el campo id en la misma tabla.
+    - [ ] supervisor: Este campo establece una relación de uno a uno con otro empleado, que actúa como el supervisor de este empleado. Está marcado como opcional (Employee?) porque no todos los empleados pueden tener un supervisor. La directiva @relation     especifica el nombre de la relación como "Subordinates", y los campos y referencias especifican cómo se relaciona este campo con el campo id en la misma tabla.
     
     - [ ] supervisorId: Este campo es de tipo Int y almacena el ID del supervisor del empleado. Es un campo de clave foránea que se relaciona con el campo id de la misma tabla Employee.
     
