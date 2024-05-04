@@ -101,7 +101,7 @@ Este proyecto utiliza next/font para optimizar y cargar automáticamente Inter, 
 
     - Manejo de errores: En caso de cualquier error durante el proceso de actualización, se captura y se devuelve una respuesta de estado 500 con un mensaje indicando que hubo un error en el proceso de actualización.
 
-      Este proceso garantiza que la actualización de los empleados se realice de manera segura y consistente, manteniendo la integridad de los datos y la coherencia en la jerarquía de la organización.
+    Este proceso garantiza que la actualización de los empleados se realice de manera segura y consistente, manteniendo la integridad de los datos y la coherencia en la jerarquía de la organización.
 
 * Manejo de Nulos:
   
