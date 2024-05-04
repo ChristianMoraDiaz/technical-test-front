@@ -61,9 +61,9 @@ La implementación se enfoca en garantizar la integridad de los datos, la flexib
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Typescript][Typescriptlang.org]][Typescript-url]
+* [![Typescript][Typescript]][Typescript-url]
 * [![Tailwind][typescriptlang]][Tailwind-url]
-* 
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -174,8 +174,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
+[Typescript]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png
+[Typescript-url]: https://www.typescriptlang.org
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
 [Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
