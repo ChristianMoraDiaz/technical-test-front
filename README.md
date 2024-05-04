@@ -152,7 +152,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [React-url]: https://reactjs.org/
 [Typescript]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 [Typescript-url]: https://www.typescriptlang.org
-[Tailwind]: https://cdn.iconscout.com/icon/free/png-512/free-tailwind-css-5285308-4406745.png?f=webp&w=256
+[Tailwind]: https://camo.githubusercontent.com/1bb293c7e2061cb31d8d49ce762a23200cab1b99350e904a9fe24cb5dadf3eb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374796c652d7461696c77696e646373732d333842324142
 [Tailwind-url]: https://tailwindcss.com
 [Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
 [Svelte-url]: https://svelte.dev/
