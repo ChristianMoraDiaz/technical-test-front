@@ -65,7 +65,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 <!-- ROADMAP -->
 ## Explanations
 
-- [ ] Estructura de Datos:
+* Estructura de Datos:
 
     - [ ] id: Este campo es de tipo Int y se utiliza como identificador único de cada empleado en la base de datos. Está marcado con @id, lo que significa que es la clave primaria de la tabla Employee. Además, tiene la directiva @default(autoincrement()), lo que indica que su valor se generará automáticamente y se incrementará automáticamente con cada nuevo registro.
     
@@ -81,7 +81,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
     
     - [ ] director: Este campo es de tipo Boolean y se utiliza para indicar si el empleado es un director o no. Está marcado con @default(false), lo que significa que su valor predeterminado es false.
 
-- [ ] Escenario de Actualización:
+* Escenario de Actualización:
 
     - [ ] Validación de entrada: El servicio comienza validando los datos de entrada utilizando la función validationResult proporcionada por el paquete express-validator. Si se encuentran errores de validación, se devuelve una respuesta de estado 400 con los errores encontrados.
 
@@ -103,7 +103,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 Este proceso garantiza que la actualización de los empleados se realice de manera segura y consistente, manteniendo la integridad de los datos y la coherencia en la jerarquía de la organización.
 
-- [ ] Manejo de Nulos:
+* Manejo de Nulos:
     - [ ] La estructura jerárquica en esta aplicación está basada en la validación del rol de director. La lógica detrás de esta validación es que un empleado que es designado como director puede tener la opción de tener o no tener un supervisor, dependiendo de las necesidades y la estructura organizativa de la empresa. Por otro lado, un empleado que no ocupa el rol de director debe tener obligatoriamente un supervisor designado.
 
     La razón para esta distinción radica en la naturaleza de los roles dentro de una organización:
