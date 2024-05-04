@@ -150,9 +150,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Typescript]: https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png
+[Typescript]: https://cdn.iconscout.com/icon/free/png-512/free-typescript-1174965.png?f=webp&w=256
 [Typescript-url]: https://www.typescriptlang.org
-[Tailwind]: https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png
+[Tailwind]: https://cdn.iconscout.com/icon/free/png-512/free-tailwind-css-5285308-4406745.png?f=webp&w=256
 [Tailwind-url]: https://tailwindcss.com
 [Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
 [Svelte-url]: https://svelte.dev/
