@@ -115,7 +115,10 @@ Este proyecto utiliza next/font para optimizar y cargar automáticamente Inter, 
 
     - En resumen, la distinción entre empleados que pueden tener o no un supervisor se basa en el rol de director. Esto permite flexibilidad en la estructura organizativa, al tiempo que garantiza que los empleados no supervisores reciban el apoyo y la orientación necesarios para cumplir con sus responsabilidades de manera efectiva.
 
+* Ejemplo de Uso
 
+  <img src="https://imgur.com/a/gAaiqnB" alt="Logo" width="80" height="80">
+  
 <p align="right">(<a href="#readme-top">Regresar arriba</a>)</p>
 
 
@@ -125,6 +128,8 @@ Este proyecto utiliza next/font para optimizar y cargar automáticamente Inter, 
 Christian David Mora Diaz - christianmoradiaz@hotmail.com - (+57) 3013913002
 
 <p align="right">(<a href="#readme-top">Regresar arriba</a>)</p>
+
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
