@@ -117,7 +117,7 @@ Este proyecto utiliza next/font para optimizar y cargar automáticamente Inter, 
 
 * Ejemplo de Uso
 
-  <img src="https://imgur.com/a/gAaiqnB" alt="Logo" width="80" height="80">
+  <img src="https://i.imgur.com/WXqLoWB.png" alt="Ejemplo" width="80" height="80">
   
 <p align="right">(<a href="#readme-top">Regresar arriba</a>)</p>
 
