@@ -108,11 +108,11 @@ Este proceso garantiza que la actualización de los empleados se realice de mane
 
     La razón para esta distinción radica en la naturaleza de los roles dentro de una organización:
 
-    Rol de director: Los directores suelen ser responsables de supervisar y dirigir equipos o áreas específicas dentro de la empresa. En algunos casos, pueden operar de manera más autónoma, sin tener un supervisor directo, especialmente si están a cargo de áreas estratégicas o proyectos importantes.
+    - [ ] Rol de director: Los directores suelen ser responsables de supervisar y dirigir equipos o áreas específicas dentro de la empresa. En algunos casos, pueden operar de manera más autónoma, sin tener un supervisor directo, especialmente si están a cargo de áreas estratégicas o proyectos importantes.
 
-    Empleados no supervisores: Por otro lado, los empleados que no ocupan roles de director generalmente requieren la supervisión y el apoyo de un supervisor para guiar su trabajo, asignar tareas, proporcionar retroalimentación y evaluar su desempeño. Esta estructura de supervisión es fundamental para mantener la coordinación, la eficiencia y la coherencia en el trabajo diario.
+    - [ ] Empleados no supervisores: Por otro lado, los empleados que no ocupan roles de director generalmente requieren la supervisión y el apoyo de un supervisor para guiar su trabajo, asignar tareas, proporcionar retroalimentación y evaluar su desempeño. Esta estructura de supervisión es fundamental para mantener la coordinación, la eficiencia y la coherencia en el trabajo diario.
 
-    En resumen, la distinción entre empleados que pueden tener o no un supervisor se basa en el rol de director. Esto permite flexibilidad en la estructura organizativa, al tiempo que garantiza que los empleados no supervisores reciban el apoyo y la orientación necesarios para cumplir con sus responsabilidades de manera efectiva.
+    - [ ] En resumen, la distinción entre empleados que pueden tener o no un supervisor se basa en el rol de director. Esto permite flexibilidad en la estructura organizativa, al tiempo que garantiza que los empleados no supervisores reciban el apoyo y la orientación necesarios para cumplir con sus responsabilidades de manera efectiva.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
